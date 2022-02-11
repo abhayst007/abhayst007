@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @abhayst007
-- 👀 I’m an android developer
+- 👀 I develop web and mobile applications
 - 📫 Contact me through discord : abhayst007#8479
