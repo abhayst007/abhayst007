@@ -3,7 +3,7 @@
 
 - 🔭 [Portfolio](abdroid.tech)
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **ReactJS**
 
 - 💬 Ask me about **java**
 
