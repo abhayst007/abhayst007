@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">I develop web and mobile applications</h3>
 
+![counter](https://enh9bobiue1qtu7.m.pipedream.net)
+
 - 🔭 [Portfolio](abdroid.tech)
 
 - 🌱 I’m currently learning **ReactJS**
