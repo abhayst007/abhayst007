@@ -3,7 +3,7 @@
 
 ![counter](https://enqozpn6c05nhns.m.pipedream.net)
 
-- 🔭 [Portfolio](abdroid.tech)
+- 🔭 <a href="https://abdroid.tech/">[Portfolio]</a>
 
 - 🌱 I’m currently learning **ReactJS**
 
