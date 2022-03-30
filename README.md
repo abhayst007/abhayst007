@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">I develop web and mobile applications</h3>
 
-![](https://komarev.com/ghpvc/?username=abhayst007&color=green)
+![](https://komarev.com/ghpvc/?username=abhayst007&color=red)
 
 - 🔭 <a href="https://abdroid.tech/">[Portfolio]</a>
 
