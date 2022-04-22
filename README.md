@@ -6,13 +6,18 @@ Full stack developer
 
 Its been 2 years since I started learning programming. I usually develop android applications. I am currently learning Next JS
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [abdroid()](http://abdroid.tech)
-* ✉️  You can contact me at [abhayst2007@gmail.com](mailto:abhayst2007@gmail.com)
-* 🚀  I'm currently working on [Codeflix (Netflix Clone)](http://codeflix.codebass.me)
-* 🧠  I'm learning Next JS, Remix JS, React, Redux
-* 🤝  I'm open to collaborating on Web Projects
-* ⚡  Zyzz 🔱
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [abdroid()](http://abdroid.tech)
+* ✉️  You can contact me at [abhayst2007@gmail.com](mailto:abhayst2007@gmail.com)
+* 🚀  I'm currently working on [Codeflix (Netflix Clone)](http://codeflix.codebass.me)
+* 🧠  I'm learning Next JS, Remix JS, React, Redux
+* 🤝  I'm open to collaborating on Web Projects
+* ⚡  Zyzz 🔱
+
+<a href="https://www.twitter.com/abhayst007" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/abhayst007?logo=twitter&style=for-the-badge&color=ffffff&labelColor=171717"
+/></a><a href="https://www.github.com/abhayst007" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/abhayst007?logo=github&style=for-the-badge&color=ffffff&labelColor=171717" /></a>
 
 ### Skills
 
@@ -46,9 +51,11 @@ Its been 2 years since I started learning programming. I usually develop android
 <a href="https://metamask.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/metamask-colored.svg" width="36" height="36" alt="MetaMask" /></a>
 </p>
 
+
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/779936016479813632" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/abhayst007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/abhayst007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/abhayst007" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
