@@ -7,7 +7,7 @@ Full stack developer
 Its been 2 years since I started learning programming. I usually develop android applications. I am currently learning Next JS
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [abdroid()](http://codedroid.tech)
+* 🖥️  See my portfolio at [codeDroid()](http://codedroid.tech)
 * ✉️  You can contact me at [abhayst2007@gmail.com](mailto:abhayst2007@gmail.com)
 * 🚀  I'm currently working on [Codeflix (Netflix Clone)](http://codeflix.codebass.me)
 * 🧠  I'm learning Next JS, Remix JS, React, Redux
