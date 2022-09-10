@@ -1,8 +1,7 @@
 Hi 👋 My name is Abhay
 ======================
 
-Full stack developer
---------------------
+https://c.tenor.com/9xx5jJaHPpIAAAAd/fat-guy.gif
 
 Its been 2 years since I started learning programming. I usually develop android applications. I am currently learning Next JS
 
