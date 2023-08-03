@@ -1,4 +1,4 @@
-![gify](https://raw.githubusercontent.com/abhayst007/assets/main/banner2.gif)
+![gify](https://media.discordapp.net/attachments/779947696177020929/1136403417519095938/banner2.gif)
 
 <div align="center">
 
